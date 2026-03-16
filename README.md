@@ -3,7 +3,6 @@ Enterprise Secure Network Design &amp; Implementation
 
 I recently worked in SJVN as a trainee where I Configured and maintained routers, firewalls and other network devices.
 I Created and maintained network diagrams and documentation.
-
 I also Developed LAN/VLAN Architectures including IP Addressing and Subnetting.
 
 What is SJVN?
@@ -16,12 +15,7 @@ My role also included the development of LAN/VLAN architectures including IP add
 
 The Project
 
-I also worked on a project where I Designed a six-level hub-based network topology where each department of the company was connected through hubs, gradually
-aggregating traffic upward toward the Juniper EX9214 core switch.
-
+I also worked on a project where I Designed a six-level hub-based network topology where each department of the company was connected through hubs, gradually Juniper EX9214 core switches, LIU and Patch panels were used to connect to different devices.
 Integrated a Cyberoam Firewall at the network perimeter to filter traffic and enable secure VPN access for remote employees.
-
-Deployed a TJ1270MSPP multiplexer to combine voice, video, and data streams, ensuring optimized bandwidth
-utilization, while routing inter-department traffic through a central router for external connectivity.
-
-Technology used- Cyberoam, Juniper EX9214, TJ1270MSPP, Hubs, Routers.
+Deployed a TJ1270MSPP multiplexer to combine voice, video, and data streams, ensuring optimized bandwidth utilization, while routing inter-department traffic through a central router for external connectivity.
+Technology used: Cyberoam Firewall, Juniper EX9214, TJ1270MSPP, Hubs, Routers
